@@ -23,7 +23,12 @@ valid_files = jpg_files[trainval_count + test_count:]
 def write_to_file(file_list, filename):
     with open(filename, 'w') as f:
         for file in file_list:
-            f.write(file+"\n")
+            for dir in os.listdir("./first_dataset"):
+                for image in os.listdir(f"./first_dataset/{dir}"):
+                    if image == file and dir == "healthy":
+                        f.write(file+",0\n")
+                    elif image == file and dir != "healthy":                        
+                        f.write(file+",1\n")
 
 # Записываем списки в соответствующие файлы
 write_to_file(trainval_files, './annotations/train.txt')
