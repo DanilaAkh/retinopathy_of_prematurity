@@ -22,4 +22,4 @@
 200 Epoch
 
 
-[модель и блокнот с обучением](https://drive.google.com/drive/folders/1VzoKM8LluOlnQ8N-ruD80ZV-Gxul-Tux?usp=drive_link)
+[модель и блокнот с обучением](https://drive.google.com/drive/folders/1e0ZaMRgWjAk2hFMgfz4ow9VVJ66oV4WV?usp=sharing)
