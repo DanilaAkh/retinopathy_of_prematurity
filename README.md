@@ -40,10 +40,10 @@
 
 # Модель ResNet
 Метрики обучения на датасете 1
-<img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/e0d238ef-5e5a-4faf-8c53-bb31a89d6847.jpg" width="600">
+<img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/17354e2c-da59-4382-9a25-8a69a7a54945.jpg" width="600">
 
 Метрики обучения на датасете 2
-<img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/11486f62-8dfd-4ae5-97de-262df0986f81.jpg" width="600">
+<img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/0a6194dc-ae9a-40d9-a073-d6ea170159d5.jpg" width="600">
 
 ## Примеры ошибок модели ResNet
 Примеры ошибок на датасете 1
@@ -52,7 +52,7 @@
  (0 – Здоров, 1 – Нездоров)
 
 Примеры ошибок на датасете 2
-<img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/a11faea6-8ecd-434c-b476-6b01a5de35c7.jpg" width="600">
+<img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/2d77ea19-67c3-459a-b62c-989c25226de0.jpg" width="600">
 
 (0 – Здоров, 1 – Стадия 2-3, 2 – Плюс болезнь)
 
@@ -65,7 +65,7 @@
 Метрики обучения на датасете 2
 <img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/523fff93-8134-4201-a7a2-27ba8683e1ce.jpg" width="600">
 
-## Примеры ошибок модели ResNet
+## Примеры ошибок модели EfficientNet
 Примеры ошибок на датасете 1
 <img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/94bb5fd0-45d1-4b89-94e7-75d5bab7907e.jpg" width="300">
 
@@ -74,12 +74,14 @@
 
 ## Метрики обучение с примененной аугментацией
 Датасет 1
+
 <img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/d3adb774-6584-4b85-97a9-979dcd9f08e7.jpg" width="600">
 
 Итоговое соотношение классов для датасета №1: 42,7% : 57,3%.
 
 
 Датасет 2
+
 <img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/b1b99939-ed9a-4a48-bf30-3f23420c8fb3.jpg" width="600">
 
 Итоговое соотношение классов для датасета №2: 51,9% : 14,3% : 33,8%.
@@ -93,7 +95,7 @@
 ```
 
 ## Пример изображения для загрузки
-<img src="https://github.com/soulvi/Retinopathy/assets/147710292/8603f8b6-1556-464e-bbd6-dc80204be915.jpg" width="300">
+<img src="https://github.com/soulvi/Retinopathy/assets/147710292/8603f8b6-1556-464e-bbd6-dc80204be915.jpg" width="400">
 
 
 
