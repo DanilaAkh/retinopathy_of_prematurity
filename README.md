@@ -48,10 +48,12 @@
 ## Примеры ошибок модели ResNet
 Примеры ошибок на датасете 1
 <img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/8893e663-2058-43f0-a887-1d83132cd7ca.jpg" width="600">
+
  (0 – Здоров, 1 – Нездоров)
 
 Примеры ошибок на датасете 2
 <img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/a11faea6-8ecd-434c-b476-6b01a5de35c7.jpg" width="600">
+
 (0 – Здоров, 1 – Стадия 2-3, 2 – Плюс болезнь)
 
 # Модель EfficientNet
@@ -66,9 +68,33 @@
 ## Примеры ошибок модели ResNet
 Примеры ошибок на датасете 1
 <img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/94bb5fd0-45d1-4b89-94e7-75d5bab7907e.jpg" width="300">
- (0 – Здоров, 1 – Нездоров)
 
-Примеры ошибок на датасете 2
-<img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/a11faea6-8ecd-434c-b476-6b01a5de35c7.jpg" width="600">
-(0 – Здоров, 1 – Стадия 2-3, 2 – Плюс болезнь)
+(0 – Здоров, 1 – Нездоров)
+
+
+## Метрики обучение с примененной аугментацией
+Датасет 1
+<img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/d3adb774-6584-4b85-97a9-979dcd9f08e7.jpg" width="600">
+
+Итоговое соотношение классов для датасета №1: 42,7% : 57,3%.
+
+
+Датасет 2
+<img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/b1b99939-ed9a-4a48-bf30-3f23420c8fb3.jpg" width="600">
+
+Итоговое соотношение классов для датасета №2: 51,9% : 14,3% : 33,8%.
+
+## Облачное приложение для классификации степени заболевания
+Ссылка на облачное приложение
+
+Сейчас приложение определяет 3 класса: Здоров, Стадия 2-3, Плюс болезнь. 
+```
+[https://goo.su/TDcn](http://188.73.168.175:8501/#7f2902ec)
+```
+
+## Пример изображения для загрузки
+<img src="https://github.com/soulvi/Retinopathy/assets/147710292/8603f8b6-1556-464e-bbd6-dc80204be915.jpg" width="300">
+
+
+
 
