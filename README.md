@@ -67,6 +67,7 @@
 
 ## Примеры ошибок модели EfficientNet
 Примеры ошибок на датасете 1
+
 <img src ="https://github.com/DanilaAkh/retinopathy_of_prematurity/assets/147710292/94bb5fd0-45d1-4b89-94e7-75d5bab7907e.jpg" width="300">
 
 (0 – Здоров, 1 – Нездоров)
